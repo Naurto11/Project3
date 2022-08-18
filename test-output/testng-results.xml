@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16276" started-at="2022-08-04T09:19:45Z" finished-at="2022-08-04T09:20:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16276" started-at="2022-08-04T09:19:45Z" finished-at="2022-08-04T09:20:01Z">
+      <class name="org.run.Runner">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.run.Runner@212bf671]" name="browserLaunch" is-config="true" duration-ms="6031" started-at="2022-08-04T09:19:45Z" finished-at="2022-08-04T09:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.run.Runner@212bf671]" name="startstime" is-config="true" duration-ms="2158" started-at="2022-08-04T09:19:51Z" finished-at="2022-08-04T09:19:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="Json()[pri:0, instance:org.run.Runner@212bf671]" name="Json" duration-ms="95" started-at="2022-08-04T09:19:53Z" finished-at="2022-08-04T09:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Json -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.run.Runner@212bf671]" name="endsTime" is-config="true" duration-ms="3016" started-at="2022-08-04T09:19:54Z" finished-at="2022-08-04T09:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="startstime()[pri:0, instance:org.run.Runner@212bf671]" name="startstime" is-config="true" duration-ms="634" started-at="2022-08-04T09:19:57Z" finished-at="2022-08-04T09:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startstime -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.run.Runner@212bf671]" name="tc1" duration-ms="701" started-at="2022-08-04T09:19:57Z" finished-at="2022-08-04T09:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="endsTime()[pri:0, instance:org.run.Runner@212bf671]" name="endsTime" is-config="true" duration-ms="3014" started-at="2022-08-04T09:19:58Z" finished-at="2022-08-04T09:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsTime -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.run.Runner@212bf671]" name="browserClose" is-config="true" duration-ms="387" started-at="2022-08-04T09:20:01Z" finished-at="2022-08-04T09:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.run.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
